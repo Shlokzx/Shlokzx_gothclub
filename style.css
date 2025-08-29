@@ -1154,7 +1154,7 @@ body::-webkit-scrollbar {
 
   #scroll-text {
     padding: 4vw 0;
-    margin: 5vh 0;
+    margin: 8vh 0;
   }
 
   #scroll-text h1 {
@@ -1163,11 +1163,12 @@ body::-webkit-scrollbar {
 
   #scroll2 h1 {
     font-size: 7vw;
-    margin-top: 8vh;
-    margin-bottom: 2vh;
+    margin-top: 10vh;
+    margin-bottom: 3vh;
   }
 
   #wrapper {
     display: none;
   }
 }
+
